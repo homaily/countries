@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  Countries Names & Codes
+  http://github.com/homaily/countries
+-->
+<countries_iso_3166>
+  <countries>
+    <code>AX</code>
+    <name>Åland‬‏</name>
+    <en_name>Åland Islands</en_name>
+    <ar_name>جزر أولان </ar_name>
+    <calling_code>358</calling_code>
+  </countries>
+  <countries>
+    <code>AL</code>
+    <name>Shqipëria‬‏</name>
+    <en_name>Albania</en_name>
+    <ar_name>ألبانيا </ar_name>
+    <calling_code>355</calling_code>
+  </countries>
+  <countries>
+    <code>DZ</code>
+    <name>الجزائر</name>
+    <en_name>Algeria</en_name>
+    <ar_name>الجزائر</ar_name>
+    <calling_code>213</calling_code>
+  </countries>
+  <countries>
+    <code>AS</code>
+    <name>American Samoa‬‏</name>
+    <en_name>American Samoa</en_name>
+    <ar_name>ساموا الأمريكية </ar_name>
+    <calling_code>1 684</calling_code>
+  </countries>
+  <countries>
+    <code>AD</code>
+    <name>Andorra‬‏</name>
+    <en_name>Andorra</en_name>
+    <ar_name>أندورا </ar_name>
+    <calling_code>376</calling_code>
+  </countries>
+  <countries>
+    <code>AO</code>
+    <name>Angola‬‏</name>
+    <en_name>Angola</en_name>
+    <ar_name>أنغولا </ar_name>
+    <calling_code>244</calling_code>
+  </countries>
+  <countries>
+    <code>AI</code>
+    <name>Anguilla‬‏</name>
+    <en_name>Anguilla</en_name>
+    <ar_name>أنغويلا </ar_name>
+    <calling_code>1 264</calling_code>
+  </countries>
+  <countries>
+    <code>AQ</code>
+    <name>Antarctica‬‏</name>
+    <en_name>Antarctica</en_name>
+    <ar_name>أنتاركتيكا </ar_name>
+    <calling_code>672</calling_code>
+  </countries>
+  <countries>
+    <code>AG</code>
+    <name>Antigua and Barbuda‬‏</name>
+    <en_name>Antigua and Barbuda</en_name>
+    <ar_name>أنتيغوا وبربودا </ar_name>
+    <calling_code>1 268</calling_code>
+  </countries>
+  <countries>
+    <code>AR</code>
+    <name>Argentina‬‏</name>
+    <en_name>Argentina</en_name>
+    <ar_name>الأرجنتين </ar_name>
+    <calling_code>54</calling_code>
+  </countries>
+  <countries>
+    <code>AM</code>
+    <name>Հայաստան‬‏</name>
+    <en_name>Armenia</en_name>
+    <ar_name>أرمينيا </ar_name>
+    <calling_code>374</calling_code>
+  </countries>
+  <countries>
+    <code>AW</code>
+    <name>Aruba‬‏</name>
+    <en_name>Aruba</en_name>
+    <ar_name>آروبا </ar_name>
+    <calling_code>297</calling_code>
+  </countries>
+  <countries>
+    <code>AU</code>
+    <name>Australia‬‏</name>
+    <en_name>Australia</en_name>
+    <ar_name>أستراليا </ar_name>
+    <calling_code>61</calling_code>
+  </countries>
+  <countries>
+    <code>AT</code>
+    <name>Österreich‬‏</name>
+    <en_name>Austria</en_name>
+    <ar_name>النمسا </ar_name>
+    <calling_code>43</calling_code>
+  </countries>
+  <countries>
+    <code>AZ</code>
+    <name>Azərbaycan‬‏</name>
+    <en_name>Azerbaijan</en_name>
+    <ar_name>أذربيجان </ar_name>
+    <calling_code>994</calling_code>
+  </countries>
+  <countries>
+    <code>BS</code>
+    <name>Bahamas‬‏</name>
+    <en_name>Bahamas</en_name>
+    <ar_name>الباهاما </ar_name>
+    <calling_code>1 242</calling_code>
+  </countries>
+  <countries>
+    <code>BH</code>
+    <name>البحرين</name>
+    <en_name>Bahrain</en_name>
+    <ar_name>البحرين</ar_name>
+    <calling_code>973</calling_code>
+  </countries>
+  <countries>
+    <code>BD</code>
+    <name>বাংলাদেশ‬‏</name>
+    <en_name>Bangladesh</en_name>
+    <ar_name>بنجلاديش </ar_name>
+    <calling_code>880</calling_code>
+  </countries>
+  <countries>
+    <code>BB</code>
+    <name>Barbados‬‏</name>
+    <en_name>Barbados</en_name>
+    <ar_name>بربادوس </ar_name>
+    <calling_code>1 246</calling_code>
+  </countries>
+  <countries>
+    <code>BY</code>
+    <name>Беларусь‬‏</name>
+    <en_name>Belarus</en_name>
+    <ar_name>روسيا البيضاء </ar_name>
+    <calling_code>375</calling_code>
+  </countries>
+  <countries>
+    <code>BE</code>
+    <name>België‬‏</name>
+    <en_name>Belgium</en_name>
+    <ar_name>بلجيكا </ar_name>
+    <calling_code>32</calling_code>
+  </countries>
+  <countries>
+    <code>BZ</code>
+    <name>Belize‬‏</name>
+    <en_name>Belize</en_name>
+    <ar_name>بليز </ar_name>
+    <calling_code>501</calling_code>
+  </countries>
+  <countries>
+    <code>BJ</code>
+    <name>Bénin‬‏</name>
+    <en_name>Benin</en_name>
+    <ar_name>بنين </ar_name>
+    <calling_code>229</calling_code>
+  </countries>
+  <countries>
+    <code>BM</code>
+    <name>Bermuda‬‏</name>
+    <en_name>Bermuda</en_name>
+    <ar_name>برمودا </ar_name>
+    <calling_code>1 441</calling_code>
+  </countries>
+  <countries>
+    <code>BT</code>
+    <name>འབྲུག‬‏</name>
+    <en_name>Bhutan</en_name>
+    <ar_name>بوتان </ar_name>
+    <calling_code>975</calling_code>
+  </countries>
+  <countries>
+    <code>BO</code>
+    <name>Bolivia‬‏</name>
+    <en_name>Bolivia</en_name>
+    <ar_name>بوليفيا </ar_name>
+    <calling_code>591</calling_code>
+  </countries>
+  <countries>
+    <code>BQ</code>
+    <name>Caribbean Netherlands‬‏</name>
+    <en_name>Caribbean Netherlands</en_name>
+    <ar_name>هولندا الكاريبية </ar_name>
+    <calling_code>599</calling_code>
+  </countries>
+  <countries>
+    <code>BA</code>
+    <name>Босна и Херцеговина‬‏</name>
+    <en_name>Bosnia and Herzegovina</en_name>
+    <ar_name>البوسنة والهرسك </ar_name>
+    <calling_code>387</calling_code>
+  </countries>
+  <countries>
+    <code>BW</code>
+    <name>Botswana‬‏</name>
+    <en_name>Botswana</en_name>
+    <ar_name>بتسوانا </ar_name>
+    <calling_code>267</calling_code>
+  </countries>
+  <countries>
+    <code>BV</code>
+    <name>Bouvet Island‬‏</name>
+    <en_name>Bouvet Island</en_name>
+    <ar_name>جزيرة بوفيه </ar_name>
+  </countries>
+  <countries>
+    <code>BR</code>
+    <name>Brasil‬‏</name>
+    <en_name>Brazil</en_name>
+    <ar_name>البرازيل </ar_name>
+    <calling_code>55</calling_code>
+  </countries>
+  <countries>
+    <code>IO</code>
+    <name>British Indian Ocean Territory‬‏</name>
+    <en_name>British Indian Ocean Territory</en_name>
+    <ar_name>الإقليم البريطاني في المحيط الهندي </ar_name>
+    <calling_code>246</calling_code>
+  </countries>
+  <countries>
+    <code>BN</code>
+    <name>Brunei‬‏</name>
+    <en_name>Brunei</en_name>
+    <ar_name>بروناي </ar_name>
+    <calling_code>673</calling_code>
+  </countries>
+  <countries>
+    <code>BG</code>
+    <name>България‬‏</name>
+    <en_name>Bulgaria</en_name>
+    <ar_name>بلغاريا </ar_name>
+    <calling_code>359</calling_code>
+  </countries>
+  <countries>
+    <code>BF</code>
+    <name>Burkina Faso‬‏</name>
+    <en_name>Burkina Faso</en_name>
+    <ar_name>بوركينا فاسو </ar_name>
+    <calling_code>226</calling_code>
+  </countries>
+  <countries>
+    <code>BI</code>
+    <name>Uburundi‬‏</name>
+    <en_name>Burundi</en_name>
+    <ar_name>بوروندي </ar_name>
+    <calling_code>257</calling_code>
+  </countries>
+  <countries>
+    <code>KH</code>
+    <name>កម្ពុជា‬‏</name>
+    <en_name>Cambodia</en_name>
+    <ar_name>كمبوديا </ar_name>
+    <calling_code>855</calling_code>
+  </countries>
+  <countries>
+    <code>CM</code>
+    <name>Cameroun‬‏</name>
+    <en_name>Cameroon</en_name>
+    <ar_name>الكاميرون </ar_name>
+    <calling_code>237</calling_code>
+  </countries>
+  <countries>
+    <code>CA</code>
+    <name>Canada‬‏</name>
+    <en_name>Canada</en_name>
+    <ar_name>كندا </ar_name>
+    <calling_code>1</calling_code>
+  </countries>
+  <countries>
+    <code>CV</code>
+    <name>Kabu Verdi‬‏</name>
+    <en_name>Cape Verde</en_name>
+    <ar_name>الرأس الأخضر </ar_name>
+    <calling_code>238</calling_code>
+  </countries>
+  <countries>
+    <code>KY</code>
+    <name>Cayman Islands‬‏</name>
+    <en_name>Cayman Islands</en_name>
+    <ar_name>جزر الكايمن </ar_name>
+    <calling_code>1 345</calling_code>
+  </countries>
+  <countries>
+    <code>CF</code>
+    <name>République centrafricaine‬‏</name>
+    <en_name>Central African Republic</en_name>
+    <ar_name>جمهورية أفريقيا الوسطى </ar_name>
+    <calling_code>236</calling_code>
+  </countries>
+  <countries>
+    <code>TD</code>
+    <name>Tchad‬‏</name>
+    <en_name>Chad</en_name>
+    <ar_name>تشاد </ar_name>
+    <calling_code>235</calling_code>
+  </countries>
+  <countries>
+    <code>CL</code>
+    <name>Chile‬‏</name>
+    <en_name>Chile</en_name>
+    <ar_name>شيلي </ar_name>
+    <calling_code>56</calling_code>
+  </countries>
+  <countries>
+    <code>CN</code>
+    <name>中国‬‏</name>
+    <en_name>China</en_name>
+    <ar_name>الصين </ar_name>
+    <calling_code>86</calling_code>
+  </countries>
+  <countries>
+    <code>CX</code>
+    <name>Christmas Island‬‏</name>
+    <en_name>Christmas Island</en_name>
+    <ar_name>جزيرة الكريسماس </ar_name>
+    <calling_code>61</calling_code>
+  </countries>
+  <countries>
+    <code>CC</code>
+    <name>Cocos [Keeling] Islands‬‏</name>
+    <en_name>Cocos [Keeling] Islands</en_name>
+    <ar_name>جزر كوكوس </ar_name>
+    <calling_code>61</calling_code>
+  </countries>
+  <countries>
+    <code>CO</code>
+    <name>Colombia‬‏</name>
+    <en_name>Colombia</en_name>
+    <ar_name>كولومبيا </ar_name>
+    <calling_code>57</calling_code>
+  </countries>
+  <countries>
+    <code>KM</code>
+    <name>جزر القمر</name>
+    <en_name>Comoros</en_name>
+    <ar_name>جزر القمر</ar_name>
+    <calling_code>269</calling_code>
+  </countries>
+  <countries>
+    <code>CG</code>
+    <name>Congo-Brazzaville‬‏</name>
+    <en_name>Congo [Republic]</en_name>
+    <ar_name>الكونغو - برازافيل </ar_name>
+    <calling_code>242</calling_code>
+  </countries>
+  <countries>
+    <code>CD</code>
+    <name>Jamhuri ya Kidemokrasia ya Kongo‬‏</name>
+    <en_name>Congo [DRC]</en_name>
+    <ar_name>الكونغو - كينشاسا </ar_name>
+    <calling_code>243</calling_code>
+  </countries>
+  <countries>
+    <code>CK</code>
+    <name>Cook Islands‬‏</name>
+    <en_name>Cook Islands</en_name>
+    <ar_name>جزر كوك </ar_name>
+    <calling_code>682</calling_code>
+  </countries>
+  <countries>
+    <code>CR</code>
+    <name>Costa Rica‬‏</name>
+    <en_name>Costa Rica</en_name>
+    <ar_name>كوستاريكا </ar_name>
+    <calling_code>506</calling_code>
+  </countries>
+  <countries>
+    <code>CI</code>
+    <name>Côte d’Ivoire‬‏</name>
+    <en_name>Côte d’Ivoire</en_name>
+    <ar_name>ساحل العاج </ar_name>
+    <calling_code>225</calling_code>
+  </countries>
+  <countries>
+    <code>HR</code>
+    <name>Hrvatska‬‏</name>
+    <en_name>Croatia</en_name>
+    <ar_name>كرواتيا </ar_name>
+    <calling_code>385</calling_code>
+  </countries>
+  <countries>
+    <code>CU</code>
+    <name>Cuba‬‏</name>
+    <en_name>Cuba</en_name>
+    <ar_name>كوبا </ar_name>
+    <calling_code>53</calling_code>
+  </countries>
+  <countries>
+    <code>CW</code>
+    <name>Curaçao‬‏</name>
+    <en_name>Curaçao</en_name>
+    <ar_name>كوراساو </ar_name>
+    <calling_code>599 9</calling_code>
+  </countries>
+  <countries>
+    <code>CY</code>
+    <name>Κύπρος‬‏</name>
+    <en_name>Cyprus</en_name>
+    <ar_name>قبرص </ar_name>
+    <calling_code>357</calling_code>
+  </countries>
+  <countries>
+    <code>CZ</code>
+    <name>Česká republika‬‏</name>
+    <en_name>Czech Republic</en_name>
+    <ar_name>جمهورية التشيك </ar_name>
+    <calling_code>420</calling_code>
+  </countries>
+  <countries>
+    <code>DK</code>
+    <name>Danmark‬‏</name>
+    <en_name>Denmark</en_name>
+    <ar_name>الدانمرك </ar_name>
+    <calling_code>45</calling_code>
+  </countries>
+  <countries>
+    <code>DJ</code>
+    <name>Djibouti‬‏</name>
+    <en_name>Djibouti</en_name>
+    <ar_name>جيبوتي </ar_name>
+    <calling_code>253</calling_code>
+  </countries>
+  <countries>
+    <code>DM</code>
+    <name>Dominica‬‏</name>
+    <en_name>Dominica</en_name>
+    <ar_name>دومينيكا </ar_name>
+    <calling_code>1 767</calling_code>
+  </countries>
+  <countries>
+    <code>DO</code>
+    <name>República Dominicana‬‏</name>
+    <en_name>Dominican Republic</en_name>
+    <ar_name>جمهورية الدومينيك </ar_name>
+    <calling_code>1 809</calling_code>
+  </countries>
+  <countries>
+    <code>EC</code>
+    <name>Ecuador‬‏</name>
+    <en_name>Ecuador</en_name>
+    <ar_name>الإكوادور </ar_name>
+    <calling_code>593</calling_code>
+  </countries>
+  <countries>
+    <code>EG</code>
+    <name>مصر</name>
+    <en_name>Egypt</en_name>
+    <ar_name>مصر</ar_name>
+    <calling_code>20</calling_code>
+  </countries>
+  <countries>
+    <code>SV</code>
+    <name>El Salvador‬‏</name>
+    <en_name>El Salvador</en_name>
+    <ar_name>السلفادور </ar_name>
+    <calling_code>503</calling_code>
+  </countries>
+  <countries>
+    <code>GQ</code>
+    <name>Guinea Ecuatorial‬‏</name>
+    <en_name>Equatorial Guinea</en_name>
+    <ar_name>غينيا الإستوائية </ar_name>
+    <calling_code>240</calling_code>
+  </countries>
+  <countries>
+    <code>ER</code>
+    <name>Eritrea‬‏</name>
+    <en_name>Eritrea</en_name>
+    <ar_name>أريتريا </ar_name>
+    <calling_code>291</calling_code>
+  </countries>
+  <countries>
+    <code>EE</code>
+    <name>Eesti‬‏</name>
+    <en_name>Estonia</en_name>
+    <ar_name>أستونيا </ar_name>
+    <calling_code>372</calling_code>
+  </countries>
+  <countries>
+    <code>ET</code>
+    <name>Ethiopia‬‏</name>
+    <en_name>Ethiopia</en_name>
+    <ar_name>إثيوبيا </ar_name>
+    <calling_code>251</calling_code>
+  </countries>
+  <countries>
+    <code>FK</code>
+    <name>Falkland Islands [Islas Malvinas]‬‏</name>
+    <en_name>Falkland Islands [Islas Malvinas]</en_name>
+    <ar_name>جزر فوكلاند </ar_name>
+    <calling_code>500</calling_code>
+  </countries>
+  <countries>
+    <code>FO</code>
+    <name>Føroyar‬‏</name>
+    <en_name>Faroe Islands</en_name>
+    <ar_name>جزر فارو </ar_name>
+    <calling_code>298</calling_code>
+  </countries>
+  <countries>
+    <code>FJ</code>
+    <name>Fiji‬‏</name>
+    <en_name>Fiji</en_name>
+    <ar_name>فيجي </ar_name>
+    <calling_code>679</calling_code>
+  </countries>
+  <countries>
+    <code>FI</code>
+    <name>Suomi‬‏</name>
+    <en_name>Finland</en_name>
+    <ar_name>فنلندا </ar_name>
+    <calling_code>358</calling_code>
+  </countries>
+  <countries>
+    <code>FR</code>
+    <name>France‬‏</name>
+    <en_name>France</en_name>
+    <ar_name>فرنسا </ar_name>
+    <calling_code>33</calling_code>
+  </countries>
+  <countries>
+    <code>GF</code>
+    <name>Guyane française‬‏</name>
+    <en_name>French Guiana</en_name>
+    <ar_name>غويانا الفرنسية </ar_name>
+  </countries>
+  <countries>
+    <code>PF</code>
+    <name>Polynésie française‬‏</name>
+    <en_name>French Polynesia</en_name>
+    <ar_name>بولينيزيا الفرنسية </ar_name>
+    <calling_code>689</calling_code>
+  </countries>
+  <countries>
+    <code>TF</code>
+    <name>Terres australes françaises‬‏</name>
+    <en_name>French Southern Territories</en_name>
+    <ar_name>المقاطعات الجنوبية الفرنسية </ar_name>
+  </countries>
+  <countries>
+    <code>GA</code>
+    <name>Gabon‬‏</name>
+    <en_name>Gabon</en_name>
+    <ar_name>الجابون </ar_name>
+    <calling_code>241</calling_code>
+  </countries>
+  <countries>
+    <code>GM</code>
+    <name>Gambia‬‏</name>
+    <en_name>Gambia</en_name>
+    <ar_name>غامبيا </ar_name>
+    <calling_code>220</calling_code>
+  </countries>
+  <countries>
+    <code>GE</code>
+    <name>საქართველო‬‏</name>
+    <en_name>Georgia</en_name>
+    <ar_name>جورجيا </ar_name>
+    <calling_code>995</calling_code>
+  </countries>
+  <countries>
+    <code>DE</code>
+    <name>Deutschland‬‏</name>
+    <en_name>Germany</en_name>
+    <ar_name>ألمانيا </ar_name>
+    <calling_code>49</calling_code>
+  </countries>
+  <countries>
+    <code>GH</code>
+    <name>Gaana‬‏</name>
+    <en_name>Ghana</en_name>
+    <ar_name>غانا </ar_name>
+    <calling_code>233</calling_code>
+  </countries>
+  <countries>
+    <code>GI</code>
+    <name>Gibraltar‬‏</name>
+    <en_name>Gibraltar</en_name>
+    <ar_name>جبل طارق </ar_name>
+    <calling_code>350</calling_code>
+  </countries>
+  <countries>
+    <code>GR</code>
+    <name>Ελλάδα‬‏</name>
+    <en_name>Greece</en_name>
+    <ar_name>اليونان </ar_name>
+    <calling_code>30</calling_code>
+  </countries>
+  <countries>
+    <code>GL</code>
+    <name>Kalaallit Nunaat‬‏</name>
+    <en_name>Greenland</en_name>
+    <ar_name>غرينلاند </ar_name>
+    <calling_code>299</calling_code>
+  </countries>
+  <countries>
+    <code>GD</code>
+    <name>Grenada‬‏</name>
+    <en_name>Grenada</en_name>
+    <ar_name>غرينادا </ar_name>
+    <calling_code>1 473</calling_code>
+  </countries>
+  <countries>
+    <code>GP</code>
+    <name>Guadeloupe‬‏</name>
+    <en_name>Guadeloupe</en_name>
+    <ar_name>جوادلوب </ar_name>
+  </countries>
+  <countries>
+    <code>GU</code>
+    <name>Guam‬‏</name>
+    <en_name>Guam</en_name>
+    <ar_name>غوام </ar_name>
+    <calling_code>1 671</calling_code>
+  </countries>
+  <countries>
+    <code>GT</code>
+    <name>Guatemala‬‏</name>
+    <en_name>Guatemala</en_name>
+    <ar_name>غواتيمالا </ar_name>
+    <calling_code>502</calling_code>
+  </countries>
+  <countries>
+    <code>GG</code>
+    <name>Guernsey‬‏</name>
+    <en_name>Guernsey</en_name>
+    <ar_name>غيرنزي </ar_name>
+    <calling_code>44</calling_code>
+  </countries>
+  <countries>
+    <code>GN</code>
+    <name>Guinée‬‏</name>
+    <en_name>Guinea</en_name>
+    <ar_name>غينيا </ar_name>
+    <calling_code>224</calling_code>
+  </countries>
+  <countries>
+    <code>GW</code>
+    <name>Guiné Bissau‬‏</name>
+    <en_name>Guinea-Bissau</en_name>
+    <ar_name>غينيا بيساو </ar_name>
+    <calling_code>245</calling_code>
+  </countries>
+  <countries>
+    <code>GY</code>
+    <name>Guyana‬‏</name>
+    <en_name>Guyana</en_name>
+    <ar_name>غيانا </ar_name>
+    <calling_code>592</calling_code>
+  </countries>
+  <countries>
+    <code>HT</code>
+    <name>Haiti‬‏</name>
+    <en_name>Haiti</en_name>
+    <ar_name>هايتي </ar_name>
+    <calling_code>509</calling_code>
+  </countries>
+  <countries>
+    <code>HM</code>
+    <name>Heard Island and McDonald Islands‬‏</name>
+    <en_name>Heard Island and McDonald Islands</en_name>
+    <ar_name>جزيرة هيرد وجزر ماكدونالد </ar_name>
+  </countries>
+  <countries>
+    <code>VA</code>
+    <name>Città del Vaticano‬‏</name>
+    <en_name>Vatican City</en_name>
+    <ar_name>الفاتيكان </ar_name>
+    <calling_code>39</calling_code>
+  </countries>
+  <countries>
+    <code>HN</code>
+    <name>Honduras‬‏</name>
+    <en_name>Honduras</en_name>
+    <ar_name>هندوراس </ar_name>
+    <calling_code>504</calling_code>
+  </countries>
+  <countries>
+    <code>HK</code>
+    <name>香港‬‏</name>
+    <en_name>Hong Kong</en_name>
+    <ar_name>هونغ كونغ </ar_name>
+    <calling_code>852</calling_code>
+  </countries>
+  <countries>
+    <code>HU</code>
+    <name>Magyarország‬‏</name>
+    <en_name>Hungary</en_name>
+    <ar_name>هنغاريا </ar_name>
+    <calling_code>36</calling_code>
+  </countries>
+  <countries>
+    <code>IS</code>
+    <name>Ísland‬‏</name>
+    <en_name>Iceland</en_name>
+    <ar_name>أيسلندا </ar_name>
+    <calling_code>354</calling_code>
+  </countries>
+  <countries>
+    <code>IN</code>
+    <name>भारत‬‏</name>
+    <en_name>India</en_name>
+    <ar_name>الهند </ar_name>
+    <calling_code>91</calling_code>
+  </countries>
+  <countries>
+    <code>ID</code>
+    <name>Indonesia‬‏</name>
+    <en_name>Indonesia</en_name>
+    <ar_name>أندونيسيا </ar_name>
+    <calling_code>62</calling_code>
+  </countries>
+  <countries>
+    <code>IR</code>
+    <name>إيران</name>
+    <en_name>Iran</en_name>
+    <ar_name>ایران</ar_name>
+    <calling_code>98</calling_code>
+  </countries>
+  <countries>
+    <code>IQ</code>
+    <name>العراق</name>
+    <en_name>Iraq</en_name>
+    <ar_name>العراق</ar_name>
+    <calling_code>964</calling_code>
+  </countries>
+  <countries>
+    <code>IE</code>
+    <name>Ireland‬‏</name>
+    <en_name>Ireland</en_name>
+    <ar_name>أيرلندا </ar_name>
+    <calling_code>353</calling_code>
+  </countries>
+  <countries>
+    <code>IM</code>
+    <name>Isle of Man‬‏</name>
+    <en_name>Isle of Man</en_name>
+    <ar_name>جزيرة مان </ar_name>
+    <calling_code>44</calling_code>
+  </countries>
+  <countries>
+    <code>IL</code>
+    <name></name>
+    <en_name>Israel</en_name>
+    <ar_name>إسرائيل</ar_name>
+    <calling_code>972</calling_code>
+  </countries>
+  <countries>
+    <code>IT</code>
+    <name>Italia‬‏</name>
+    <en_name>Italy</en_name>
+    <ar_name>إيطاليا </ar_name>
+    <calling_code>39</calling_code>
+  </countries>
+  <countries>
+    <code>JM</code>
+    <name>Jamaica‬‏</name>
+    <en_name>Jamaica</en_name>
+    <ar_name>جامايكا </ar_name>
+    <calling_code>1 876</calling_code>
+  </countries>
+  <countries>
+    <code>JP</code>
+    <name>日本‬‏</name>
+    <en_name>Japan</en_name>
+    <ar_name>اليابان </ar_name>
+    <calling_code>81</calling_code>
+  </countries>
+  <countries>
+    <code>JE</code>
+    <name>Jersey‬‏</name>
+    <en_name>Jersey</en_name>
+    <ar_name>جيرسي </ar_name>
+    <calling_code>44</calling_code>
+  </countries>
+  <countries>
+    <code>JO</code>
+    <name>الأردن</name>
+    <en_name>Jordan</en_name>
+    <ar_name>الأردن</ar_name>
+    <calling_code>962</calling_code>
+  </countries>
+  <countries>
+    <code>KZ</code>
+    <name>Казахстан‬‏</name>
+    <en_name>Kazakhstan</en_name>
+    <ar_name>كازاخستان </ar_name>
+    <calling_code>7</calling_code>
+  </countries>
+  <countries>
+    <code>KE</code>
+    <name>Kenya‬‏</name>
+    <en_name>Kenya</en_name>
+    <ar_name>كينيا </ar_name>
+    <calling_code>254</calling_code>
+  </countries>
+  <countries>
+    <code>KI</code>
+    <name>Kiribati‬‏</name>
+    <en_name>Kiribati</en_name>
+    <ar_name>كيريباتي </ar_name>
+    <calling_code>686</calling_code>
+  </countries>
+  <countries>
+    <code>KP</code>
+    <name>조선 민주주의 인민 공화국‬‏</name>
+    <en_name>North Korea</en_name>
+    <ar_name>كوريا الشمالية </ar_name>
+    <calling_code>850</calling_code>
+  </countries>
+  <countries>
+    <code>KR</code>
+    <name>대한민국‬‏</name>
+    <en_name>South Korea</en_name>
+    <ar_name>كوريا الجنوبية </ar_name>
+    <calling_code>82</calling_code>
+  </countries>
+  <countries>
+    <code>KW</code>
+    <name>الكويت</name>
+    <en_name>Kuwait</en_name>
+    <ar_name>الكويت</ar_name>
+    <calling_code>965</calling_code>
+  </countries>
+  <countries>
+    <code>KG</code>
+    <name>Kyrgyzstan‬‏</name>
+    <en_name>Kyrgyzstan</en_name>
+    <ar_name>قرغيزستان </ar_name>
+    <calling_code>996</calling_code>
+  </countries>
+  <countries>
+    <code>LA</code>
+    <name>ສ.ປ.ປ ລາວ‬‏</name>
+    <en_name>Laos</en_name>
+    <ar_name>لاوس </ar_name>
+    <calling_code>856</calling_code>
+  </countries>
+  <countries>
+    <code>LV</code>
+    <name>Latvija‬‏</name>
+    <en_name>Latvia</en_name>
+    <ar_name>لاتفيا </ar_name>
+    <calling_code>371</calling_code>
+  </countries>
+  <countries>
+    <code>LB</code>
+    <name>لبنان</name>
+    <en_name>Lebanon</en_name>
+    <ar_name>لبنان</ar_name>
+    <calling_code>961</calling_code>
+  </countries>
+  <countries>
+    <code>LS</code>
+    <name>Lesotho‬‏</name>
+    <en_name>Lesotho</en_name>
+    <ar_name>ليسوتو </ar_name>
+    <calling_code>266</calling_code>
+  </countries>
+  <countries>
+    <code>LR</code>
+    <name>Liberia‬‏</name>
+    <en_name>Liberia</en_name>
+    <ar_name>ليبيريا </ar_name>
+    <calling_code>231</calling_code>
+  </countries>
+  <countries>
+    <code>LY</code>
+    <name>ليبيا</name>
+    <en_name>Libya</en_name>
+    <ar_name>ليبيا</ar_name>
+    <calling_code>218</calling_code>
+  </countries>
+  <countries>
+    <code>LI</code>
+    <name>Liechtenstein‬‏</name>
+    <en_name>Liechtenstein</en_name>
+    <ar_name>ليختنشتاين </ar_name>
+    <calling_code>423</calling_code>
+  </countries>
+  <countries>
+    <code>LT</code>
+    <name>Lietuva‬‏</name>
+    <en_name>Lithuania</en_name>
+    <ar_name>ليتوانيا </ar_name>
+    <calling_code>370</calling_code>
+  </countries>
+  <countries>
+    <code>LU</code>
+    <name>Luxembourg‬‏</name>
+    <en_name>Luxembourg</en_name>
+    <ar_name>لوكسمبورغ </ar_name>
+    <calling_code>352</calling_code>
+  </countries>
+  <countries>
+    <code>MO</code>
+    <name>澳門‬‏</name>
+    <en_name>Macau</en_name>
+    <ar_name>مكاو </ar_name>
+    <calling_code>853</calling_code>
+  </countries>
+  <countries>
+    <code>MK</code>
+    <name>Македонија‬‏</name>
+    <en_name>Macedonia [FYROM]</en_name>
+    <ar_name>مقدونيا </ar_name>
+    <calling_code>389</calling_code>
+  </countries>
+  <countries>
+    <code>MG</code>
+    <name>Madagasikara‬‏</name>
+    <en_name>Madagascar</en_name>
+    <ar_name>مدغشقر </ar_name>
+    <calling_code>261</calling_code>
+  </countries>
+  <countries>
+    <code>MW</code>
+    <name>Malawi‬‏</name>
+    <en_name>Malawi</en_name>
+    <ar_name>ملاوي </ar_name>
+    <calling_code>265</calling_code>
+  </countries>
+  <countries>
+    <code>MY</code>
+    <name>Malaysia‬‏</name>
+    <en_name>Malaysia</en_name>
+    <ar_name>ماليزيا </ar_name>
+    <calling_code>60</calling_code>
+  </countries>
+  <countries>
+    <code>MV</code>
+    <name>Maldives‬‏</name>
+    <en_name>Maldives</en_name>
+    <ar_name>جزر المالديف </ar_name>
+    <calling_code>960</calling_code>
+  </countries>
+  <countries>
+    <code>ML</code>
+    <name>Mali‬‏</name>
+    <en_name>Mali</en_name>
+    <ar_name>مالي </ar_name>
+    <calling_code>223</calling_code>
+  </countries>
+  <countries>
+    <code>MT</code>
+    <name>Malta‬‏</name>
+    <en_name>Malta</en_name>
+    <ar_name>مالطا </ar_name>
+    <calling_code>356</calling_code>
+  </countries>
+  <countries>
+    <code>MH</code>
+    <name>Marshall Islands‬‏</name>
+    <en_name>Marshall Islands</en_name>
+    <ar_name>جزر المارشال </ar_name>
+    <calling_code>692</calling_code>
+  </countries>
+  <countries>
+    <code>MQ</code>
+    <name>Martinique‬‏</name>
+    <en_name>Martinique</en_name>
+    <ar_name>مارتينيك </ar_name>
+    <calling_code>596</calling_code>
+  </countries>
+  <countries>
+    <code>MR</code>
+    <name>موريتانيا</name>
+    <en_name>Mauritania</en_name>
+    <ar_name>موريتانيا</ar_name>
+    <calling_code>222</calling_code>
+  </countries>
+  <countries>
+    <code>MU</code>
+    <name>Moris‬‏</name>
+    <en_name>Mauritius</en_name>
+    <ar_name>موريشيوس </ar_name>
+    <calling_code>230</calling_code>
+  </countries>
+  <countries>
+    <code>YT</code>
+    <name>Mayotte‬‏</name>
+    <en_name>Mayotte</en_name>
+    <ar_name>مايوت </ar_name>
+    <calling_code>262</calling_code>
+  </countries>
+  <countries>
+    <code>MX</code>
+    <name>México‬‏</name>
+    <en_name>Mexico</en_name>
+    <ar_name>المكسيك </ar_name>
+    <calling_code>52</calling_code>
+  </countries>
+  <countries>
+    <code>FM</code>
+    <name>Micronesia‬‏</name>
+    <en_name>Micronesia</en_name>
+    <ar_name>ميكرونيزيا </ar_name>
+    <calling_code>691</calling_code>
+  </countries>
+  <countries>
+    <code>MD</code>
+    <name>Republica Moldova‬‏</name>
+    <en_name>Moldova</en_name>
+    <ar_name>مولدافيا </ar_name>
+    <calling_code>373</calling_code>
+  </countries>
+  <countries>
+    <code>MC</code>
+    <name>Monaco‬‏</name>
+    <en_name>Monaco</en_name>
+    <ar_name>موناكو </ar_name>
+    <calling_code>377</calling_code>
+  </countries>
+  <countries>
+    <code>MN</code>
+    <name>Монгол‬‏</name>
+    <en_name>Mongolia</en_name>
+    <ar_name>منغوليا </ar_name>
+    <calling_code>976</calling_code>
+  </countries>
+  <countries>
+    <code>ME</code>
+    <name>Crna Gora‬‏</name>
+    <en_name>Montenegro</en_name>
+    <ar_name>الجبل الأسود </ar_name>
+    <calling_code>382</calling_code>
+  </countries>
+  <countries>
+    <code>MS</code>
+    <name>Montserrat‬‏</name>
+    <en_name>Montserrat</en_name>
+    <ar_name>مونتسرات </ar_name>
+    <calling_code>1 664</calling_code>
+  </countries>
+  <countries>
+    <code>MA</code>
+    <name>المغرب</name>
+    <en_name>Morocco</en_name>
+    <ar_name>المغرب</ar_name>
+    <calling_code>212</calling_code>
+  </countries>
+  <countries>
+    <code>MZ</code>
+    <name>Moçambique‬‏</name>
+    <en_name>Mozambique</en_name>
+    <ar_name>موزمبيق </ar_name>
+    <calling_code>258</calling_code>
+  </countries>
+  <countries>
+    <code>MM</code>
+    <name>မြန်မာ‬‏</name>
+    <en_name>Myanmar [Burma]</en_name>
+    <ar_name>ميانمار -بورما </ar_name>
+    <calling_code>95</calling_code>
+  </countries>
+  <countries>
+    <code>NA</code>
+    <name>Namibia‬‏</name>
+    <en_name>Namibia</en_name>
+    <ar_name>ناميبيا </ar_name>
+    <calling_code>264</calling_code>
+  </countries>
+  <countries>
+    <code>NR</code>
+    <name>Nauru‬‏</name>
+    <en_name>Nauru</en_name>
+    <ar_name>ناورو </ar_name>
+    <calling_code>674</calling_code>
+  </countries>
+  <countries>
+    <code>NP</code>
+    <name>नेपाल‬‏</name>
+    <en_name>Nepal</en_name>
+    <ar_name>نيبال </ar_name>
+    <calling_code>977</calling_code>
+  </countries>
+  <countries>
+    <code>NL</code>
+    <name>Nederland‬‏</name>
+    <en_name>Netherlands</en_name>
+    <ar_name>هولندا </ar_name>
+    <calling_code>31</calling_code>
+  </countries>
+  <countries>
+    <code>NC</code>
+    <name>Nouvelle-Calédonie‬‏</name>
+    <en_name>New Caledonia</en_name>
+    <ar_name>كاليدونيا الجديدة </ar_name>
+    <calling_code>687</calling_code>
+  </countries>
+  <countries>
+    <code>NZ</code>
+    <name>New Zealand‬‏</name>
+    <en_name>New Zealand</en_name>
+    <ar_name>نيوزيلاندا </ar_name>
+    <calling_code>64</calling_code>
+  </countries>
+  <countries>
+    <code>NI</code>
+    <name>Nicaragua‬‏</name>
+    <en_name>Nicaragua</en_name>
+    <ar_name>نيكاراغوا </ar_name>
+    <calling_code>505</calling_code>
+  </countries>
+  <countries>
+    <code>NE</code>
+    <name>Nijar‬‏</name>
+    <en_name>Niger</en_name>
+    <ar_name>النيجر </ar_name>
+    <calling_code>227</calling_code>
+  </countries>
+  <countries>
+    <code>NG</code>
+    <name>Nigeria‬‏</name>
+    <en_name>Nigeria</en_name>
+    <ar_name>نيجيريا </ar_name>
+    <calling_code>234</calling_code>
+  </countries>
+  <countries>
+    <code>NU</code>
+    <name>Niue‬‏</name>
+    <en_name>Niue</en_name>
+    <ar_name>نيوي </ar_name>
+    <calling_code>683</calling_code>
+  </countries>
+  <countries>
+    <code>NF</code>
+    <name>Norfolk Island‬‏</name>
+    <en_name>Norfolk Island</en_name>
+    <ar_name>جزيرة نورفوك </ar_name>
+    <calling_code>672</calling_code>
+  </countries>
+  <countries>
+    <code>MP</code>
+    <name>Northern Mariana Islands‬‏</name>
+    <en_name>Northern Mariana Islands</en_name>
+    <ar_name>جزر ماريانا الشمالية </ar_name>
+    <calling_code>1 670</calling_code>
+  </countries>
+  <countries>
+    <code>NO</code>
+    <name>Norge‬‏</name>
+    <en_name>Norway</en_name>
+    <ar_name>النرويج </ar_name>
+    <calling_code>47</calling_code>
+  </countries>
+  <countries>
+    <code>OM</code>
+    <name>عُمان</name>
+    <en_name>Oman</en_name>
+    <ar_name>عُمان</ar_name>
+    <calling_code>968</calling_code>
+  </countries>
+  <countries>
+    <code>PK</code>
+    <name>پاکستان</name>
+    <en_name>Pakistan</en_name>
+    <ar_name>باكستان</ar_name>
+    <calling_code>92</calling_code>
+  </countries>
+  <countries>
+    <code>PW</code>
+    <name>Palau‬‏</name>
+    <en_name>Palau</en_name>
+    <ar_name>بالاو </ar_name>
+    <calling_code>680</calling_code>
+  </countries>
+  <countries>
+    <code>PS</code>
+    <name>فلسطين</name>
+    <en_name>Palestine</en_name>
+    <ar_name>فلسطين</ar_name>
+    <calling_code>970</calling_code>
+  </countries>
+  <countries>
+    <code>PA</code>
+    <name>Panamá‬‏</name>
+    <en_name>Panama</en_name>
+    <ar_name>بنما </ar_name>
+    <calling_code>507</calling_code>
+  </countries>
+  <countries>
+    <code>PG</code>
+    <name>Papua New Guinea‬‏</name>
+    <en_name>Papua New Guinea</en_name>
+    <ar_name>بابوا غينيا الجديدة </ar_name>
+    <calling_code>675</calling_code>
+  </countries>
+  <countries>
+    <code>PY</code>
+    <name>Paraguay‬‏</name>
+    <en_name>Paraguay</en_name>
+    <ar_name>باراغواي </ar_name>
+    <calling_code>595</calling_code>
+  </countries>
+  <countries>
+    <code>PE</code>
+    <name>Perú‬‏</name>
+    <en_name>Peru</en_name>
+    <ar_name>بيرو </ar_name>
+    <calling_code>51</calling_code>
+  </countries>
+  <countries>
+    <code>PH</code>
+    <name>Philippines‬‏</name>
+    <en_name>Philippines</en_name>
+    <ar_name>الفيلبين </ar_name>
+    <calling_code>63</calling_code>
+  </countries>
+  <countries>
+    <code>PN</code>
+    <name>Pitcairn Islands‬‏</name>
+    <en_name>Pitcairn Islands</en_name>
+    <ar_name>جزر بيتكيرن </ar_name>
+    <calling_code>870</calling_code>
+  </countries>
+  <countries>
+    <code>PL</code>
+    <name>Polska‬‏</name>
+    <en_name>Poland</en_name>
+    <ar_name>بولندا </ar_name>
+    <calling_code>48</calling_code>
+  </countries>
+  <countries>
+    <code>PT</code>
+    <name>Portugal‬‏</name>
+    <en_name>Portugal</en_name>
+    <ar_name>البرتغال </ar_name>
+    <calling_code>351</calling_code>
+  </countries>
+  <countries>
+    <code>PR</code>
+    <name>Puerto Rico‬‏</name>
+    <en_name>Puerto Rico</en_name>
+    <ar_name>بورتوريكو </ar_name>
+    <calling_code>1 787</calling_code>
+  </countries>
+  <countries>
+    <code>QA</code>
+    <name>قطر</name>
+    <en_name>Qatar</en_name>
+    <ar_name>قطر</ar_name>
+    <calling_code>974</calling_code>
+  </countries>
+  <countries>
+    <code>RE</code>
+    <name>Réunion‬‏</name>
+    <en_name>Réunion</en_name>
+    <ar_name>روينيون </ar_name>
+  </countries>
+  <countries>
+    <code>RO</code>
+    <name>România‬‏</name>
+    <en_name>Romania</en_name>
+    <ar_name>رومانيا </ar_name>
+    <calling_code>40</calling_code>
+  </countries>
+  <countries>
+    <code>RU</code>
+    <name>Россия‬‏</name>
+    <en_name>Russia</en_name>
+    <ar_name>روسيا </ar_name>
+    <calling_code>7</calling_code>
+  </countries>
+  <countries>
+    <code>RW</code>
+    <name>Rwanda‬‏</name>
+    <en_name>Rwanda</en_name>
+    <ar_name>رواندا </ar_name>
+    <calling_code>250</calling_code>
+  </countries>
+  <countries>
+    <code>BL</code>
+    <name>Saint-Barthélémy‬‏</name>
+    <en_name>Saint Barthélemy</en_name>
+    <ar_name>سان بارتليمي </ar_name>
+    <calling_code>590</calling_code>
+  </countries>
+  <countries>
+    <code>SH</code>
+    <name>Saint Helena‬‏</name>
+    <en_name>Saint Helena</en_name>
+    <ar_name>سانت هيلنا </ar_name>
+    <calling_code>290</calling_code>
+  </countries>
+  <countries>
+    <code>KN</code>
+    <name>Saint Kitts and Nevis‬‏</name>
+    <en_name>Saint Kitts and Nevis</en_name>
+    <ar_name>سانت كيتس ونيفيس </ar_name>
+    <calling_code>1 869</calling_code>
+  </countries>
+  <countries>
+    <code>LC</code>
+    <name>Saint Lucia‬‏</name>
+    <en_name>Saint Lucia</en_name>
+    <ar_name>سانت لوسيا </ar_name>
+    <calling_code>1 758</calling_code>
+  </countries>
+  <countries>
+    <code>MF</code>
+    <name>Saint-Martin [partie française]‬‏</name>
+    <en_name>Saint Martin</en_name>
+    <ar_name>سانت مارتن </ar_name>
+    <calling_code>1 599</calling_code>
+  </countries>
+  <countries>
+    <code>PM</code>
+    <name>Saint-Pierre-et-Miquelon‬‏</name>
+    <en_name>Saint Pierre and Miquelon</en_name>
+    <ar_name>سانت بيير وميكولون </ar_name>
+    <calling_code>508</calling_code>
+  </countries>
+  <countries>
+    <code>VC</code>
+    <name>Saint Vincent and the Grenadines‬‏</name>
+    <en_name>Saint Vincent and the Grenadines</en_name>
+    <ar_name>سانت فنسنت وغرنادين </ar_name>
+    <calling_code>1784</calling_code>
+  </countries>
+  <countries>
+    <code>WS</code>
+    <name>Samoa‬‏</name>
+    <en_name>Samoa</en_name>
+    <ar_name>ساموا </ar_name>
+    <calling_code>685</calling_code>
+  </countries>
+  <countries>
+    <code>SM</code>
+    <name>San Marino‬‏</name>
+    <en_name>San Marino</en_name>
+    <ar_name>سان مارينو </ar_name>
+    <calling_code>378</calling_code>
+  </countries>
+  <countries>
+    <code>ST</code>
+    <name>São Tomé e Príncipe‬‏</name>
+    <en_name>São Tomé and Príncipe</en_name>
+    <ar_name>ساو تومي وبرينسيبي </ar_name>
+    <calling_code>239</calling_code>
+  </countries>
+  <countries>
+    <code>SA</code>
+    <name>المملكة العربية السعودية</name>
+    <en_name>Saudi Arabia</en_name>
+    <ar_name>المملكة العربية السعودية</ar_name>
+    <calling_code>966</calling_code>
+  </countries>
+  <countries>
+    <code>SN</code>
+    <name>Sénégal‬‏</name>
+    <en_name>Senegal</en_name>
+    <ar_name>السنغال </ar_name>
+    <calling_code>221</calling_code>
+  </countries>
+  <countries>
+    <code>RS</code>
+    <name>Србија‬‏</name>
+    <en_name>Serbia</en_name>
+    <ar_name>صربيا </ar_name>
+    <calling_code>381</calling_code>
+  </countries>
+  <countries>
+    <code>SC</code>
+    <name>Seychelles‬‏</name>
+    <en_name>Seychelles</en_name>
+    <ar_name>سيشل </ar_name>
+    <calling_code>248</calling_code>
+  </countries>
+  <countries>
+    <code>SL</code>
+    <name>Sierra Leone‬‏</name>
+    <en_name>Sierra Leone</en_name>
+    <ar_name>سيراليون </ar_name>
+    <calling_code>232</calling_code>
+  </countries>
+  <countries>
+    <code>SG</code>
+    <name>Singapore‬‏</name>
+    <en_name>Singapore</en_name>
+    <ar_name>سنغافورة </ar_name>
+    <calling_code>65</calling_code>
+  </countries>
+  <countries>
+    <code>SX</code>
+    <name>Sint Maarten‬‏</name>
+    <en_name>Sint Maarten</en_name>
+    <ar_name>سينت مارتن </ar_name>
+    <calling_code>1 721</calling_code>
+  </countries>
+  <countries>
+    <code>SK</code>
+    <name>Slovensko‬‏</name>
+    <en_name>Slovakia</en_name>
+    <ar_name>سلوفاكيا </ar_name>
+    <calling_code>421</calling_code>
+  </countries>
+  <countries>
+    <code>SI</code>
+    <name>Slovenija‬‏</name>
+    <en_name>Slovenia</en_name>
+    <ar_name>سلوفينيا </ar_name>
+    <calling_code>386</calling_code>
+  </countries>
+  <countries>
+    <code>SB</code>
+    <name>Solomon Islands‬‏</name>
+    <en_name>Solomon Islands</en_name>
+    <ar_name>جزر سليمان </ar_name>
+    <calling_code>677</calling_code>
+  </countries>
+  <countries>
+    <code>SO</code>
+    <name>Soomaaliya‬‏</name>
+    <en_name>Somalia</en_name>
+    <ar_name>الصومال </ar_name>
+    <calling_code>252</calling_code>
+  </countries>
+  <countries>
+    <code>ZA</code>
+    <name>South Africa‬‏</name>
+    <en_name>South Africa</en_name>
+    <ar_name>جنوب أفريقيا </ar_name>
+    <calling_code>27</calling_code>
+  </countries>
+  <countries>
+    <code>GS</code>
+    <name>South Georgia and the South Sandwich Islands‬‏</name>
+    <en_name>South Georgia and the South Sandwich Islands</en_name>
+    <ar_name>جورجيا الجنوبية وجزر ساندويتش الجنوبية </ar_name>
+  </countries>
+  <countries>
+    <code>SS</code>
+    <name>جنوب السودان</name>
+    <en_name>South Sudan</en_name>
+    <ar_name>جنوب السودان</ar_name>
+    <calling_code>211</calling_code>
+  </countries>
+  <countries>
+    <code>ES</code>
+    <name>España‬‏</name>
+    <en_name>Spain</en_name>
+    <ar_name>إسبانيا </ar_name>
+    <calling_code>34</calling_code>
+  </countries>
+  <countries>
+    <code>LK</code>
+    <name>ශ්‍රී ලංකාව‬‏</name>
+    <en_name>Sri Lanka</en_name>
+    <ar_name>سريلانكا </ar_name>
+    <calling_code>94</calling_code>
+  </countries>
+  <countries>
+    <code>SD</code>
+    <name>السودان</name>
+    <en_name>Sudan</en_name>
+    <ar_name>السودان</ar_name>
+    <calling_code>249</calling_code>
+  </countries>
+  <countries>
+    <code>SR</code>
+    <name>Suriname‬‏</name>
+    <en_name>Suriname</en_name>
+    <ar_name>سورينام </ar_name>
+    <calling_code>597</calling_code>
+  </countries>
+  <countries>
+    <code>SJ</code>
+    <name>Svalbard og Jan Mayen‬‏</name>
+    <en_name>Svalbard and Jan Mayen</en_name>
+    <ar_name>سفالبارد وجان مايان </ar_name>
+  </countries>
+  <countries>
+    <code>SZ</code>
+    <name>Swaziland‬‏</name>
+    <en_name>Swaziland</en_name>
+    <ar_name>سوازيلاند </ar_name>
+    <calling_code>268</calling_code>
+  </countries>
+  <countries>
+    <code>SE</code>
+    <name>Sverige‬‏</name>
+    <en_name>Sweden</en_name>
+    <ar_name>السويد </ar_name>
+    <calling_code>46</calling_code>
+  </countries>
+  <countries>
+    <code>CH</code>
+    <name>Schweiz‬‏</name>
+    <en_name>Switzerland</en_name>
+    <ar_name>سويسرا </ar_name>
+    <calling_code>41</calling_code>
+  </countries>
+  <countries>
+    <code>SY</code>
+    <name>سوريا</name>
+    <en_name>Syria</en_name>
+    <ar_name>سوريا</ar_name>
+    <calling_code>963</calling_code>
+  </countries>
+  <countries>
+    <code>TW</code>
+    <name>台灣‬‏</name>
+    <en_name>Taiwan</en_name>
+    <ar_name>تايوان </ar_name>
+    <calling_code>886</calling_code>
+  </countries>
+  <countries>
+    <code>TJ</code>
+    <name>Tajikistan‬‏</name>
+    <en_name>Tajikistan</en_name>
+    <ar_name>طاجكستان </ar_name>
+    <calling_code>992</calling_code>
+  </countries>
+  <countries>
+    <code>TZ</code>
+    <name>Tanzania‬‏</name>
+    <en_name>Tanzania</en_name>
+    <ar_name>تانزانيا </ar_name>
+    <calling_code>255</calling_code>
+  </countries>
+  <countries>
+    <code>TH</code>
+    <name>ไทย‬‏</name>
+    <en_name>Thailand</en_name>
+    <ar_name>تايلند </ar_name>
+    <calling_code>66</calling_code>
+  </countries>
+  <countries>
+    <code>TL</code>
+    <name>Timor-Leste‬‏</name>
+    <en_name>Timor-Leste</en_name>
+    <ar_name>تيمور الشرقية </ar_name>
+    <calling_code>670</calling_code>
+  </countries>
+  <countries>
+    <code>TG</code>
+    <name>Togo‬‏</name>
+    <en_name>Togo</en_name>
+    <ar_name>توجو </ar_name>
+    <calling_code>228</calling_code>
+  </countries>
+  <countries>
+    <code>TK</code>
+    <name>Tokelau‬‏</name>
+    <en_name>Tokelau</en_name>
+    <ar_name>توكيلو </ar_name>
+    <calling_code>690</calling_code>
+  </countries>
+  <countries>
+    <code>TO</code>
+    <name>Tonga‬‏</name>
+    <en_name>Tonga</en_name>
+    <ar_name>تونغا </ar_name>
+    <calling_code>676</calling_code>
+  </countries>
+  <countries>
+    <code>TT</code>
+    <name>Trinidad and Tobago‬‏</name>
+    <en_name>Trinidad and Tobago</en_name>
+    <ar_name>ترينيداد وتوباغو </ar_name>
+    <calling_code>1 868</calling_code>
+  </countries>
+  <countries>
+    <code>TN</code>
+    <name>تونس</name>
+    <en_name>Tunisia</en_name>
+    <ar_name>تونس</ar_name>
+    <calling_code>216</calling_code>
+  </countries>
+  <countries>
+    <code>TR</code>
+    <name>Türkiye‬‏</name>
+    <en_name>Turkey</en_name>
+    <ar_name>تركيا </ar_name>
+    <calling_code>90</calling_code>
+  </countries>
+  <countries>
+    <code>TM</code>
+    <name>Turkmenistan‬‏</name>
+    <en_name>Turkmenistan</en_name>
+    <ar_name>تركمانستان </ar_name>
+    <calling_code>993</calling_code>
+  </countries>
+  <countries>
+    <code>TC</code>
+    <name>Turks and Caicos Islands‬‏</name>
+    <en_name>Turks and Caicos Islands</en_name>
+    <ar_name>جزر الترك وجايكوس </ar_name>
+    <calling_code>1 649</calling_code>
+  </countries>
+  <countries>
+    <code>TV</code>
+    <name>Tuvalu‬‏</name>
+    <en_name>Tuvalu</en_name>
+    <ar_name>توفالو </ar_name>
+    <calling_code>688</calling_code>
+  </countries>
+  <countries>
+    <code>UG</code>
+    <name>Uganda‬‏</name>
+    <en_name>Uganda</en_name>
+    <ar_name>أوغندا </ar_name>
+    <calling_code>256</calling_code>
+  </countries>
+  <countries>
+    <code>UA</code>
+    <name>Україна‬‏</name>
+    <en_name>Ukraine</en_name>
+    <ar_name>أوكرانيا </ar_name>
+    <calling_code>380</calling_code>
+  </countries>
+  <countries>
+    <code>AE</code>
+    <name>الإمارات العربية المتحدة</name>
+    <en_name>United Arab Emirates</en_name>
+    <ar_name>الإمارات العربية المتحدة</ar_name>
+    <calling_code>971</calling_code>
+  </countries>
+  <countries>
+    <code>GB</code>
+    <name>United Kingdom‬‏</name>
+    <en_name>United Kingdom</en_name>
+    <ar_name>المملكة المتحدة </ar_name>
+    <calling_code>44</calling_code>
+  </countries>
+  <countries>
+    <code>US</code>
+    <name>United States‬‏</name>
+    <en_name>United States</en_name>
+    <ar_name>الولايات المتحدة </ar_name>
+    <calling_code>1</calling_code>
+  </countries>
+  <countries>
+    <code>UM</code>
+    <name>U.S. Outlying Islands‬‏</name>
+    <en_name>U.S. Outlying Islands</en_name>
+    <ar_name>جزر الولايات المتحدة البعيدة الصغيرة </ar_name>
+  </countries>
+  <countries>
+    <code>UY</code>
+    <name>Uruguay‬‏</name>
+    <en_name>Uruguay</en_name>
+    <ar_name>أورغواي </ar_name>
+    <calling_code>598</calling_code>
+  </countries>
+  <countries>
+    <code>UZ</code>
+    <name>Ўзбекистон‬‏</name>
+    <en_name>Uzbekistan</en_name>
+    <ar_name>أوزبكستان </ar_name>
+    <calling_code>998</calling_code>
+  </countries>
+  <countries>
+    <code>VU</code>
+    <name>Vanuatu‬‏</name>
+    <en_name>Vanuatu</en_name>
+    <ar_name>فانواتو </ar_name>
+    <calling_code>678</calling_code>
+  </countries>
+  <countries>
+    <code>VE</code>
+    <name>Venezuela‬‏</name>
+    <en_name>Venezuela</en_name>
+    <ar_name>فنزويلا </ar_name>
+    <calling_code>58</calling_code>
+  </countries>
+  <countries>
+    <code>VN</code>
+    <name>Việt Nam‬‏</name>
+    <en_name>Vietnam</en_name>
+    <ar_name>فيتنام </ar_name>
+    <calling_code>84</calling_code>
+  </countries>
+  <countries>
+    <code>VG</code>
+    <name>British Virgin Islands‬‏</name>
+    <en_name>British Virgin Islands</en_name>
+    <ar_name>جزر فرجين البريطانية </ar_name>
+    <calling_code>1 284</calling_code>
+  </countries>
+  <countries>
+    <code>VI</code>
+    <name>U.S. Virgin Islands‬‏</name>
+    <en_name>U.S. Virgin Islands</en_name>
+    <ar_name>جزر فرجين الأمريكية </ar_name>
+    <calling_code>1 340</calling_code>
+  </countries>
+  <countries>
+    <code>WF</code>
+    <name>Wallis and Futuna‬‏</name>
+    <en_name>Wallis and Futuna</en_name>
+    <ar_name>جزر والس وفوتونا </ar_name>
+    <calling_code>681</calling_code>
+  </countries>
+  <countries>
+    <code>EH</code>
+    <name>الصحراء الغربية</name>
+    <en_name>Western Sahara</en_name>
+    <ar_name>الصحراء الغربية</ar_name>
+    <calling_code>212</calling_code>
+  </countries>
+  <countries>
+    <code>YE</code>
+    <name>اليمن</name>
+    <en_name>Yemen</en_name>
+    <ar_name>اليمن</ar_name>
+    <calling_code>967</calling_code>
+  </countries>
+  <countries>
+    <code>ZM</code>
+    <name>Zambia‬‏</name>
+    <en_name>Zambia</en_name>
+    <ar_name>زامبيا </ar_name>
+    <calling_code>260</calling_code>
+  </countries>
+  <countries>
+    <code>ZW</code>
+    <name>Zimbabwe‬‏</name>
+    <en_name>Zimbabwe</en_name>
+    <ar_name>زيمبابوي </ar_name>
+    <calling_code>263</calling_code>
+  </countries>
+</countries_iso_3166>
